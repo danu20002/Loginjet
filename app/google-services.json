@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595284938171",
+    "project_id": "login-jet-5d305",
+    "storage_bucket": "login-jet-5d305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595284938171:android:22d94558a95b063339889e",
+        "android_client_info": {
+          "package_name": "com.danunaik.loginjet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn23e6-FlGEsQ76KczI0hrdNzD82UzBCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

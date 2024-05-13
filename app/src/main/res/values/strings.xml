@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Jet</string>
+    <string name="hey_there">Hello there.</string>
+    <string name="createaccount">Create an  Account</string>
+    <string name="welcomeback">Welcome Back</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="terms_and_conditions">By Continuing You Accept our privacy and policy and terms and conditions</string>
+
+ <string name="register">Register</string>
+</resources>
